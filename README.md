@@ -33,3 +33,5 @@ To create custom services in the Backbase ecosystem, Backbase recommends to use 
 Use these templates to develop your own service, and use the Backbase local environment to test and run your code. 
 
 For more information, see [ModelBank organization](https://github.com/baas-devops-reference).
+
+@poihierro
